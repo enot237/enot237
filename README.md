@@ -32,8 +32,6 @@ DevOps / SRE • Санкт-Петербург • On-prem + Cloud • Авто�
   <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes" />
   <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Helm-111?style=for-the-badge&logo=helm" />
-  <img src="https://img.shields.io/badge/Terraform-111?style=for-the-badge&logo=terraform" />
   <img src="https://img.shields.io/badge/Ansible-111?style=for-the-badge&logo=ansible" />
   <img src="https://img.shields.io/badge/GitLab_CI-111?style=for-the-badge&logo=gitlab" />
   <img src="https://img.shields.io/badge/Prometheus-111?style=for-the-badge&logo=prometheus" />
@@ -47,13 +45,11 @@ DevOps / SRE • Санкт-Петербург • On-prem + Cloud • Авто�
 
 ---
 
-## 📌 Избранное (сюда лучше вывести 3–6 репо)
+## 
 - ⭐ **homelab-infra** — кластера, сети, storage, best practices
 - ⭐ **k8s-playground** — чарты, манифесты, операторы, заметки
 - ⭐ **observability-stack** — мониторинг/логи/алертинг
 - ⭐ **automation-scripts** — полезные тулзы/скрипты
-
-(Создай/переименуй репозитории так, чтобы это реально отражало твой уровень — и закрепи их в профиле.)
 
 ---
 
