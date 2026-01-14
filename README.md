@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anisimov E.S. &fontAlign=50&fontAlignY=40&desc=DevOps%20%2F%20SRE%20%7C%20Kubernetes%20%7C%20IaC%20%7C%20Observability&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anisimov%20E.S.%20&fontAlign=50&fontAlignY=40&desc=DevOps%20%2F%20SRE%20%7C%20Kubernetes%20%7C%20IaC%20%7C%20Observability&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- Quick links -->
