@@ -75,37 +75,6 @@ DevOps / Linux Engineer из Санкт-Петербурга.
 
 ---
 
-## 📌 Опыт (коротко)
-
-### **Hotellink** — DevOps / Linux Administrator (2023 → н.в.)
-- Построил HA-инфраструктуру: Proxmox + TrueNAS + PBS  
-- Bare-metal Kubernetes с внешними HAProxy балансировщиками  
-- Percona XtraDB Cluster + Keepalived  
-- Полный стек мониторинга: Zabbix, Prometheus, Grafana, ELK  
-- Автоматизация CI/CD в GitLab: build → registry → deploy  
-- AI-платформа: GPU-серверы, LLM, OCR, CV-модели
-
-### **Consium** — System Administrator
-- Сети, Wi-Fi, IP-телефония  
-- Автоматизация через чат-боты (PHP + MySQL + REST)
-
-### **Freelance** — Web / Linux Engineer
-- LAMP/LEMP, REST API, Telegram/VK bots  
-- Полный цикл: от ТЗ до продакшена
-
----
-
-## 📂 Избранные проекты
-*(рекомендую создать под это отдельные репозитории и закрепить)*
-
-- **homelab-infra** — Proxmox, TrueNAS, PBS, networking схемы  
-- **k8s-ha-cluster** — bare-metal Kubernetes с HA-балансировкой  
-- **ci-cd-gitlab** — production-пайплайны для микросервисов  
-- **observability-stack** — Prometheus, Grafana, ELK, alerting  
-- **ai-doc-recognition** — OCR + CV + LLM pipeline
-
----
-
 ## 📊 GitHub активность
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=enot237&show_icons=true&rank_icon=github&hide_border=true" />
