@@ -27,7 +27,7 @@ DevOps / SRE • Санкт-Петербург • On-prem + Cloud • Авто�
 
 ---
 
-## 🧰 Стек (пример — подстрой под себя)
+## 🧰 Стек
 <p>
   <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Kubernetes-111?style=for-the-badge&logo=kubernetes" />
